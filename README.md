@@ -1,10 +1,12 @@
 # Whereby-Covert-Tunnel 🎭 (TorKameleon-based)
 
-**Project Lead:** a0776334466-cloud
+**Project Lead:** a0776334466-cloud (Project Architect & Maintainer - Seeking Technical Lead)
 **Status:** Seeking engineering talent for critical Transcoding/FEC integration.
 **Based on the foundational research of Afonso Vilalonga.**
 
 ## 🎯 The Mission: Bypassing Application-Layer Whitelisting
+
+The Project Lead, a0776334466-cloud, is managing the project vision, communications, and resources. **We are urgently looking for a highly capable Technical Lead to take ownership of the codebase and its technical execution.**
 
 Our censorship environment allows ONLY legitimate traffic to known services (e.g., Whereby, Zoom). Our goal is to tunnel full IP traffic through the **live Whereby servers**, not just mimic the WebRTC protocol.
 
@@ -14,7 +16,7 @@ When we send our steganographic H.264 video through Whereby, the service's video
 ---
 
 ### 🛑 Important Note to Contributors: Current Code Status
-Due to technical constraints with the web interface, the original TorKameleon PoC files have not yet been fully uploaded to this repository. Contributors are encouraged to examine the original research codebase (link available in **CREDITS.md**) while the Maintainer works on a complete synchronization. We are urgently seeking **Technical Lead** expertise to rebuild the structure collaboratively.
+Due to technical constraints with the web interface, the original TorKameleon PoC files have not yet been fully uploaded to this repository. Contributors are encouraged to examine the original research codebase (link available in **CREDITS.md**). We are urgently seeking **Technical Lead** expertise to rebuild the structure collaboratively and take ownership of the engineering roadmap.
 
 ---
 
